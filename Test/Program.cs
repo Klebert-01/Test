@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("nu är vi på master");
+Console.WriteLine("nu är vi på master");
+
+Console.WriteLine("nu är vi på master");
+
+Console.WriteLine("nu är vi på master");
+
+Console.WriteLine("nu är vi på master");
+Console.WriteLine("nu är vi på master");
+Console.WriteLine("nu är vi på master");
+
+
+
+
